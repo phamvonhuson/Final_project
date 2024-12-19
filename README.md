@@ -7,11 +7,11 @@
 ## Giới thiệu
 Bài tập mô tả về App Giao đồ ăn 
 ### Mô tả
-##Ưu Điểm:
--**Có sử dụng **
--**Đáp ứng được yêu cầu đề **
--**Thiết lập được nhu cầu tất **
-##Nhược Điểm:
--**App chưa được **
+## Ưu Điểm:
+- **Có sử dụng **
+- **Đáp ứng được yêu cầu đề **
+- **Thiết lập được nhu cầu tất **
+## Nhược Điểm:
+- **App chưa được **
 -**Còn mỗi số lỗi hay bug chưa được **
--**Còn sơ sài **
+- **Còn sơ sài **
